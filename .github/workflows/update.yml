@@ -2,9 +2,8 @@ name: Auto Update Sony Playlist
 
 on:
   schedule:
-    # हर 30 मिनट में ऑटोमैटिक रन होगा
-    - cron: '*/30 * * * *'
-  workflow_dispatch: # मैन्युअली Run करने का ऑप्शन (GitHub UI से)
+    - cron: '*/30 * * * *' # हर 30 मिनट में रन होगा
+  workflow_dispatch: # GitHub से मैन्युअल रन करने का बटन
 
 jobs:
   update-playlist:
