@@ -12,3 +12,16 @@ https://jiotvmblive.cdn.jio.com/bpk-tv/Ten3_HD_MOB/WDVLive/index.mpd
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 15) ExoPlayerLib/2.11.6
 #EXTHTTP:{"Cookie":"__hdnea__=st=1768956686~exp=1869043086~acl=/*~hmac="}
 https://jiotvmblive.cdn.jio.com/bpk-tv/Ten_4_Telugu_MOB/WDVLive/index.mpd
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="✨✦ʟɪᴠᴇ ᴇᴠᴇɴᴛꜱ✦✨", 1st T20I - 22 Oct 2026 [ENG] - India Tour of New Zealand 2026
+https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="✨✦ʟɪᴠᴇ ᴇᴠᴇɴᴛꜱ✦✨", 1st T20I - 22 Oct 2026 [HIN] - India Tour of New Zealand 2026
+https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="✨✦ʟɪᴠᴇ ᴇᴠᴇɴᴛꜱ✦✨", 1st T20I - 22 Oct 2026 [TAM] - India Tour of New Zealand 2026
+https://dai.google.com/ssai/event/AtRHWIT_QL6RJoXT7boKsQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="✨✦ʟɪᴠᴇ ᴇᴠᴇɴᴛꜱ✦✨", 1st T20I - 22 Oct 2026 [TEL] - India Tour of New Zealand 2026
+https://dai.google.com/ssai/event/F_6lxVUnQ6Wq3OLoSvaeDQ/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg" group-title="✨✦ʟɪᴠᴇ ᴇᴠᴇɴᴛꜱ✦✨", 1st T20I - 22 Oct 2026 [KAN] - India Tour of New Zealand 2026
+https://dai.google.com/ssai/event/RyHp_zJIS62YupQ3gUIbSQ/master.m3u8
