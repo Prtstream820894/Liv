@@ -1,12 +1,13 @@
-import urllib.parse
+import datetime
 import re
+import urllib.parse
 import requests
 
 # सोर्स M3U प्लेलिस्ट का URL
 SOURCE_URL = "https://vk-playlist.pages.dev/sony.m3u"
 OUTPUT_FILE = "new_sony.m3u"
 
-# Custom headers अगर वर्कर या सर्वर को ब्लॉक होने से बचाना हो
+# Custom headers ताकि रिक्वेस्ट ब्लॉक न हो
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
@@ -18,13 +19,11 @@ HEADERS = {
 def get_final_url(url):
     """URL को बैकग्राउंड में ओपन करके उसका फाइनल रीडायरेक्ट लिंक निकालता है।"""
     try:
-        # allow_redirects=True से यह आखिरी रीडायरेक्टेड URL तक जाता है
         response = requests.head(
             url, headers=HEADERS, allow_redirects=True, timeout=10
         )
         final_url = response.url
 
-        # अगर HEAD रिक्वेस्ट से 405/403 मिले तो GET से ट्राय करते हैं (stream=True ताकि पूरा डेटा डाउनलोड न हो)
         if response.status_code >= 400:
             response = requests.get(
                 url, headers=HEADERS, allow_redirects=True, stream=True, timeout=10
@@ -36,7 +35,7 @@ def get_final_url(url):
         return final_url
     except Exception as e:
         print(f"[ERROR] Could not resolve {url}: {e}")
-        return url  # अगर फेल हुआ तो पुराना लिंक ही रख देगा
+        return url
 
 
 def process_playlist():
@@ -53,19 +52,28 @@ def process_playlist():
     for line in lines:
         line_str = line.strip()
 
-        # अगर लाइन URL है (http या https से शुरू हो रही है)
+        # अगर लाइन URL है तो फाइनल लिंक निकालेंगे
         if line_str.startswith("http://") or line_str.startswith("https://"):
             final_stream_url = get_final_url(line_str)
             new_lines.append(final_stream_url)
         else:
-            # #EXTM3U या #EXTINF वाली लाइनों को वैसे ही रहने दो
             new_lines.append(line)
 
-    # नई M3U फाइल राइट करें
+    # हर बार नया टाइमस्टैम्प हेडर जोड़ेंगे ताकि git में हमेशा बदलाव दिखे और कमिट पक्का हो
+    current_time = datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+    header_comment = f"#EXTM3U x-tvg-url=\"\" refresh-time=\"{current_time}\""
+
+    # अगर पहली लाइन #EXTM3U है तो उसे अपडेटेड टाइमस्टैम्प से बदल देंगे, वरना जोड़ देंगे
+    if new_lines and new_lines[0].startswith("#EXTM3U"):
+        new_lines[0] = header_comment
+    else:
+        new_lines.insert(0, header_comment)
+
+    # नई M3U फाइल सेव करें
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("\n".join(new_lines) + "\n")
 
-    print(f"\nSuccessfully generated {OUTPUT_FILE}!")
+    print(f"\nSuccessfully generated {OUTPUT_FILE} with timestamp!")
 
 
 if __name__ == "__main__":
