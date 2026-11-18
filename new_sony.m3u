@@ -1,45 +1,45 @@
-#EXTM3U x-tvg-url="" refresh-time="2026-11-17 18:25:12 UTC"
+#EXTM3U x-tvg-url="" refresh-time="2026-11-18 01:10:38 UTC"
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="SET HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" tvg-language="Hindi",SET HD
-https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1794939889~exp=1794940189~acl=*~id=58397589-14d4-4923-837c-ca13fb4a6ed6~hmac=2d4ca084e9330bbeedffab110969c0479223a8ab89a0eaa395c9519a454af35b
+https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=st=1794964201~exp=1794964501~acl=*~id=4910b1a3-3797-4b84-8f94-0fb0094103d0~hmac=b1273ee3d0d2bf044aa83122f5b04bc9eb9b633496df9d1ed9361979aca857db
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" tvg-language="Hindi",Sony SAB HD
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1794939891~exp=1794940191~acl=*~id=b55951ff-4722-4ce6-8021-ab36971831b5~hmac=9747874f5370ee524452e4dc71a0f271f7286a1ad25e1c9b7ae680b3657759a5
+https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=st=1794964204~exp=1794964504~acl=*~id=77da7537-0f21-46cd-abaf-0d57769ca119~hmac=ef284883e591a4aa1e168eef39acb6d728b46bcf75624f0aef06124567fd733b
 #EXTINF:-1 tvg-id="sony-marathi" tvg-name="Sony Marathi" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" tvg-language="Marathi",Sony Marathi
-https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=st=1794939892~exp=1794940192~acl=*~id=c4e7a6a4-a68f-4930-a392-41870202589a~hmac=96a42d37ac310ad287559690a7886de6f6cda3860b53950a2041d1df84d8442b
+https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=st=1794964209~exp=1794964509~acl=*~id=f47761ce-10e9-43a0-8b62-8cfba01a0563~hmac=dfc7b89513c711b215a278082d56df60f1036189fce517189e89bf9ef9519ae8
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20PAL.png" tvg-language="Hindi",Sony Pal
-https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1794939893~exp=1794940193~acl=*~id=6f2e51d8-429d-4ca7-9080-c40c8c541fa8~hmac=9ff4f4a82428d2aec94daac95aebb1621a8497ff9d182403a0a7d1b48e5e2f87
+https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=st=1794964211~exp=1794964511~acl=*~id=0d5912e3-d5f3-4a3c-9b6c-df9cc70c4101~hmac=5c9be7d30a66e98657bb2533a20c8d006d7488ae4e2e76481c79fde3fc979ceb
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" group-title="Entertainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20AATH.png" tvg-language="Bengali",Sony Aath
-https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=st=1794939894~exp=1794940194~acl=*~id=e51ef3ab-1e3c-481e-94d2-f05799bf1b17~hmac=c4c4ffced21713a9b6041c16d4d565794767f9a5ba8f22a8c05e8373cd59a95f
+https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=st=1794964211~exp=1794964511~acl=*~id=a7564e7c-10d3-4ea6-946c-b3065b8790e9~hmac=f46ff2ddf872d0f25cdc33b3bdc7351daa6c6fe72e0d63efe3d30f652ede32fa
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" group-title="Kids" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY%20YAY.png" tvg-language="Hindi",Sony Yay
-https://sliv.tgaadi.workers.dev/sonyyaysd.m3u8
+https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=st=1794964212~exp=1794964512~acl=*~id=87c7aa4c-d16a-403d-b0d1-afd7eae78e97~hmac=481b5347e83b054ff81315793bed3a810c16cad6585d043e3db897e760fd5d4a
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" tvg-language="Hindi",Sony MAX HD
-https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1794939896~exp=1794940196~acl=*~id=6478a186-ffc9-4dc3-a9ff-852ecb66e102~hmac=c9c1522d1d49484a1bc7c917ff85648c9c3fda8f43901308354a2d268090accf
+https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=st=1794964213~exp=1794964513~acl=*~id=39afd02a-cdab-42c1-a824-45674cc0c247~hmac=c1ea493ce364688fd7aa8b2863ff42e68fc8a1976bfbb9a92baf4d31933e1c97
 #EXTINF:-1 tvg-id="sony-max" tvg-name="Sony MAX" group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX.png" tvg-language="Hindi",Sony MAX
-https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=st=1794939897~exp=1794940197~acl=*~id=4b3b0929-9048-4189-b9f4-1a197c8981b7~hmac=ec9c9443c3be39280dc7457178432f1fb1353430f68e2557fd4755fa1f8a156e
+https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=st=1794964214~exp=1794964514~acl=*~id=96e1c2ed-f63c-4588-94c9-edcafd6e0c7d~hmac=34a58f1d9dc83d5daed7934d6e5dfdc11a25162096e2fab3cf433a71d8309e69
 #EXTINF:-1 tvg-id="sony-max-2" tvg-name="Sony MAX 2" group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX2.png" tvg-language="Hindi",Sony MAX 2
-https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1794939899~exp=1794940199~acl=*~id=ce9042c9-8c44-4017-a464-8ccd6200ac4e~hmac=ecdf4df349d82981e85b3c001b450b79f48edfb33c62f836bd34def09acf6cae
+https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=st=1794964218~exp=1794964518~acl=*~id=dbb36ea8-d319-4c68-bebb-ef6ba86bbff3~hmac=53293f225f8c20288a6c58b59cbe5a2576f7a1ff4c195f287b8db3844b897a18
 #EXTINF:-1 tvg-id="sony-wah" tvg-name="Sony WAH" group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_WAH.png" tvg-language="Hindi",Sony WAH
-https://sliv.tgaadi.workers.dev/sonywah.m3u8
+https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=st=1794964221~exp=1794964521~acl=*~id=93c80e5c-b9f7-40ef-92c4-580cd8252da7~hmac=825ab0add46b31d7860eccabfcb09bbabcd4c6236b864b2fc5633c1861fb88ee
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-name="Sony PIX HD" group-title="Movies" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" tvg-language="English",Sony PIX HD
-https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=st=1794939901~exp=1794940201~acl=*~id=e8b5fbcf-c893-4fcd-9b89-e337a69b3785~hmac=aa54039c80d08779663286dad7441b544018e12c9e9fab15c57b590da79a952b
+https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=st=1794964222~exp=1794964522~acl=*~id=73bc4a8a-23d2-46e5-a278-e34b79b906ea~hmac=3a1495b1dfac9ef5c40c812ba0948800fb6e0f498330af651718e4d94f0c3327
 #EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-name="Sony BBC Earth HD" group-title="Infotainment" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" tvg-language="English",Sony BBC Earth HD
-https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=st=1794939902~exp=1794940202~acl=*~id=d6414155-119a-4c94-9f2f-87287164d79b~hmac=c1b3dbd8f038e64ad66c01852b1dc39cbb65a4267bc3c5d6943a5f7f4532fbe3
+https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=st=1794964224~exp=1794964524~acl=*~id=47f0c1f9-edfe-4954-8fa1-48d260a4fef8~hmac=19a6d76bb3a4cf141910f677460f3cadbb950e32aff0415f24f18b7cf0d83bcc
 #EXTINF:-1 tvg-id="sony-ten-1" tvg-name="Sony Sports Ten 1" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1
-https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=st=1794939902~exp=1794940202~acl=*~id=9668d4b8-f2d7-4b88-bf32-3a9f468175af~hmac=66f1e7565db5b9cfad020590c39bfab9c1d3966eba093b266b951ac72f70c505
+https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=st=1794964225~exp=1794964525~acl=*~id=99150fe5-d2ce-4787-bc1c-cbfaac318a9a~hmac=15d0b0bcad1a11e86d326fbd0660de967482579dfb353ff70fb31558aec093ce
 #EXTINF:-1 tvg-id="sony-ten-2" tvg-name="Sony Sports Ten 2" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2
-https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=st=1794939903~exp=1794940203~acl=*~id=5212de09-2c2c-4fe3-ac3b-f6d663f8bede~hmac=7a5d900b489fb5c9cd688a4e1f98ad8fd3f7fef2a493764c3e38c96a32a4c54a
+https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=st=1794964225~exp=1794964525~acl=*~id=a4582767-e712-4291-bacc-a9cceeb19b30~hmac=1957b40c155de7144010c66738b520319eaddcb76c006245050a119b314ae241
 #EXTINF:-1 tvg-id="sony-ten-3" tvg-name="Sony Sports Ten 3" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" tvg-language="Hindi",Sony Sports Ten 3
-https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=st=1794939905~exp=1794940205~acl=*~id=e3028989-6899-49c5-bac8-014bc64f53fc~hmac=38dba59ac2e780499e92c969b871fd7898a181133e1cb3be7abe6d6ba524f0a8
+https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=st=1794964227~exp=1794964527~acl=*~id=c3f9fbc5-9582-42a2-b9b6-23a604d800fa~hmac=7cfb28b162d21e76b0eaea227e591398c39819f34a3e1d49b2da83e814d3479c
 #EXTINF:-1 tvg-id="sony-ten-4" tvg-name="Sony Sports Ten 4" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" tvg-language="Hindi",Sony Sports Ten 4
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=st=1794939905~exp=1794940205~acl=*~id=2f4f948c-7e74-45a9-9951-90184ac59ad8~hmac=2e942e4fc6fb711ae21238d174e777646c86779094c699896ef0a52a523147da
+https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=st=1794964229~exp=1794964529~acl=*~id=3f24f833-a3d8-4cac-8072-bce3ec87810f~hmac=e645789f5994ab42972961f3871017dc24b4f23c536dff33ad6c02b425014eac
 #EXTINF:-1 tvg-id="sony-ten-5" tvg-name="Sony Sports Ten 5" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5
-https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=st=1794939906~exp=1794940206~acl=*~id=208f91f5-ad4b-46ed-aac8-4cc337680692~hmac=bd9dfc8d5becc3201f576f50996ff1a1c3383ff00d40d899faa20eb228da93c1
+https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=st=1794964233~exp=1794964533~acl=*~id=f240f61c-033a-4567-9e47-45a8cd46afcb~hmac=b52c84cba1b13ead36a8f23919840d2755aff1d878bf277b05f07c353106e57c
 #EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-name="Sony Sports Ten 1HD" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 1HD
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1794939908~exp=1794940208~acl=*~id=bde80f3b-74c4-45c8-ac38-f86566a096b2~hmac=55d128c97cc6f30031debb469eaa0353bd0631e48b82e80adb0e7d1799bae8f3
+https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1794964234~exp=1794964534~acl=*~id=21a704c9-44d5-4c40-9ba5-bcddb1751823~hmac=b798cdd2da6c5fef05452259989d912b93de9266d79dfb24f91e1b3b5924d578
 #EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-name="Sony Sports Ten 2 HD" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 2 HD
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=st=1794939909~exp=1794940209~acl=*~id=5e467ec6-bc80-43cf-beb7-84a8f985d885~hmac=5e653e2c8ba436a2e8184032afd9eab1574d99cf0eee47220b5c46434c27d73c
+https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=st=1794964234~exp=1794964534~acl=*~id=515262ae-ca0a-4984-ae60-087907d12a78~hmac=c18ffd3e11dadcb409ead76baeb8b9eac12e0bbf7be221419167fbce5c4564ed
 #EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-name="Sony Sports Ten 3 HD" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" tvg-language="Hindi",Sony Sports Ten 3 HD
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=st=1794939910~exp=1794940210~acl=*~id=ce8d32ba-b05d-40f9-915a-fe99d152e90b~hmac=4ee16542fad2edb73600b473cec09ef1f57d511d542b465e5a4b96c350f35d5d
+https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=st=1794964235~exp=1794964535~acl=*~id=46f6f067-1ee6-4115-bb80-19b670cb6219~hmac=344403cb7cc20304892e2e533e9f4b4a09771bd6621145fbf886f366affe39c7
 #EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-name="Sony Sports Ten 4 HD" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" tvg-language="Hindi",Sony Sports Ten 4 HD
-https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=st=1794939911~exp=1794940211~acl=*~id=31fef70c-0d1a-4aaf-91f9-a2d0d45a1344~hmac=d2576e05274fdf69032ef0f6fb5ddcacffc83e63dcee99e60cb2055c277c1ece
+https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=st=1794964237~exp=1794964537~acl=*~id=c1f6b56a-6a84-498e-a06b-9a53771af212~hmac=126cfdb5bcaf6d40c50ed582a83be08450e73cfd2de93b91d8dff3048de48e5d
 #EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-name="Sony Sports Ten 5 HD" group-title="Sports" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" tvg-language="English",Sony Sports Ten 5 HD
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=st=1794939912~exp=1794940212~acl=*~id=885a583b-5ba6-4814-8d9e-1b39eacf1464~hmac=3d27c5bebe2e75ffc06bcaea98b8f57836b8c4a85cdfcfb96d9946ea803df56a
+https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8?hdnea=st=1794964238~exp=1794964538~acl=*~id=8e5464dc-d19d-4ec5-babc-318dcacb091d~hmac=aa9cea609a326d414c4034f95f239e596015f1ebd9ed517e23361270de6d30fd
